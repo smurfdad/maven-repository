@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>es.smurfdad.utils</groupId>
+  <artifactId>GenericUtils</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170911133730</lastUpdated>
+  </versioning>
+</metadata>
