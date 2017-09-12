@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>es.smurfdad.fwk.maven</groupId>
+  <artifactId>BaseParent</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170912.074956</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20170912074956</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20170912.074956-2</value>
+        <updated>20170912074956</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
