@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>es.smurfdad.fwk.maven</groupId>
+  <artifactId>ExeParent</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20171123083409</lastUpdated>
+  </versioning>
+</metadata>
